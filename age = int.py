@@ -6,6 +6,7 @@ if age >= 18:
 
     print("welcome" + name)
 
-else:
+else: #if false it will print this
+   
 
     print("sorry son")    
