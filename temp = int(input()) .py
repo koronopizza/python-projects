@@ -1,9 +1,9 @@
-temp = int(input())
+temp = int(input())  # takes the temp as input
 
-if temp >= 100 :
+if temp >= 100 :     # statement condition
 
-    print("Boiling")
+    print("Boiling")  # if statement true
 
 else: 
 
-    print("done")    
+    print("done")    # if statement false
