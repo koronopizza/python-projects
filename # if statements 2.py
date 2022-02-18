@@ -2,13 +2,13 @@ x = 50  #if statement
 
 y = 10
 
-if x < y:
-
-    if x > 49:
+if x < y:  #if statement
+    
+    if x > 49:  # deeper if statement
     
      print(y + x + 200)
 
-elif y < x: 
+elif y < x:    # else if 
 
     print(y * x + 200)
 
