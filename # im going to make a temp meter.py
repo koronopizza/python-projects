@@ -1,8 +1,8 @@
 # im going to make a temp meter
 
-humidity = int(input())
+humidity = int(input())   # this is the variable input
 
-x = humidity
+x = humidity    # variable
 
 if (x == 0) and (x >= 30):
 
