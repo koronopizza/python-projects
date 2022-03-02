@@ -1,4 +1,4 @@
-monthconversions ={
+monthconversions ={  # month conversions
     "jan": "january",
     "feb": "february",
     "mar":  "march",
