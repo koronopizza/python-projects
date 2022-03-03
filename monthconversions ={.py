@@ -12,6 +12,7 @@ monthconversions ={  # month conversions
     "dec":  "december"
 }
 
-print(monthconversions.get("aug"))  # this prints the longer month name
+print(monthconversions.get("aug"))  # this prints the longer month name , august
 
-print(monthconversions.get("jan"))
+print(monthconversions.get("jan"))  # this prints the longer month name , january
+
