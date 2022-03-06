@@ -1,4 +1,4 @@
-bleed = int(input())
+bleed = int(input())    # this is the input from the user
 poison = int(input())
 madness = int(input())
 
