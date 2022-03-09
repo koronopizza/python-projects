@@ -4,9 +4,9 @@ madness = int(input())
 
 status = "your status is"    #variable for your status
 
-if bleed >= 100:
+if bleed >= 100:            # if bleeding is equal to 100
  
- status = status + " bleeding"
+ status = status + " bleeding"   # your status is bleeding
  
 if poison >= 100:
   
