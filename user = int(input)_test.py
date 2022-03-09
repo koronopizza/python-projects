@@ -2,7 +2,7 @@ bleed = int(input())    # this is the input from the user
 poison = int(input())
 madness = int(input())
 
-status = "your status is"
+status = "your status is"    #variable for your status
 
 if bleed >= 100:
  
