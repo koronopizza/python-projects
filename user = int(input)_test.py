@@ -8,7 +8,7 @@ if bleed >= 100:            # if bleeding is equal to 100
  
  status = status + " bleeding"   # your status is bleeding
  
-if poison >= 100:
+if poison >= 100:           # if poison is equal to 100
   
   status = status + " poison"
 
