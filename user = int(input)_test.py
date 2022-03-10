@@ -12,8 +12,8 @@ if poison >= 100:           # if poison is equal to 100
   
   status = status + " poison"    # your status is poison
 
-if madness >= 100:
+if madness >= 100:          # if madness is equal to 100
     
-    status = status + " madness"
+    status = status + " madness"    # your status is madness
     
 print(status)
