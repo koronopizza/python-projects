@@ -14,4 +14,4 @@ elif y < x:    # else if
 
 else:
 
-    print("notting")        
+    print("notting")    # this is the print statement 
