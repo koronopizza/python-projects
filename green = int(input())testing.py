@@ -1,4 +1,4 @@
-green = int(input())
+green = int(input()) # this will tell how much exp you have
 blue = int(input())
 red = int(input())
 
