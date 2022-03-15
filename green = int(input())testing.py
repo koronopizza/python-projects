@@ -4,15 +4,15 @@ red = int(input())
 
 status = "your status is"
 
-if green > 0 and green <= 25:
+if green > 0 and green <= 25:   # this is the range of green
  
  status = status + " your new"
  
-if blue >= 26 and blue <= 75:
+if blue >= 26 and blue <= 75:   # this is the range of blue
   
   status = status + " your average"
 
-if red >= 76 and red <=100:
+if red >= 76 and red <=100:     # this is the range of red
     
     status = status + " your seasoned"
     
