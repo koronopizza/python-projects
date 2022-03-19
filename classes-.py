@@ -1,5 +1,5 @@
 class Person:                                                 # just working with classes
-  def __init__(self, name, age, money):     # this will always be with class    # Parameter 
+  def __init__(self, name, age, money):      # this will always be with class    # Parameter 
     self.name = name        
     self.age = age
     self.money = money
