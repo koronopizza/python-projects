@@ -11,5 +11,5 @@ p1 = Person("Will", 48, 1000)    #object
 
 print(p1.name)    # printing the object name
 print(p1.age)     # printing the object age
-print(p1.money)
+print(p1.money)   # printing the object money
 
