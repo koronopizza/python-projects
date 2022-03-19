@@ -9,7 +9,7 @@ class Person:                                                 # just working wit
 
 p1 = Person("Will", 48, 1000)    #object
 
-print(p1.name)    
+print(p1.name)    # printing the object name
 print(p1.age)
 print(p1.money)
 
