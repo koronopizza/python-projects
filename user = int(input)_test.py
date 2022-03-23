@@ -16,4 +16,4 @@ if madness >= 100:          # if madness is equal to 100
     
     status = status + " madness"    # your status is madness
     
-print(status)         # this is the print statement
+print(status)          # this is the print statement
