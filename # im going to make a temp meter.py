@@ -1,6 +1,6 @@
 # im going to make a temp meter
 
-humidity = int(input())      # this is the variable input
+humidity = int(input())       # this is the variable input
 
 x = humidity    # variable
 
