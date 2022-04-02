@@ -2,7 +2,7 @@
 
 humidity = int(input())       # this is the variable input
 
-x = humidity    # variable
+x = humidity        # variable
 
 if (x == 0) and (x >= 30):    # conditions for the input to tell what temp it is
 
