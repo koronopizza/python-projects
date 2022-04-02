@@ -1,4 +1,4 @@
-a = int(input())  # if this is 10
+a = int(input())   # if this is 10
 
 b = int(input())  # if this is 5
 
