@@ -6,4 +6,4 @@ if temp >= 100 :       # statement condition
 
 else: 
 
-    print("done")       # if statement false
+    print("done")      # if statement false
