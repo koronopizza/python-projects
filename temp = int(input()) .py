@@ -1,4 +1,4 @@
-temp = int(input())     # takes the temp as input
+temp = int(input())    # takes the temp as input
 
 if temp >= 100 :        # statement condition
 
