@@ -10,6 +10,6 @@ x = Random_moring=random.choice(morning_list)    # this will randomize morning_l
 
 y = Random_afternoon=random.choice(afternoon_list)    # this will randomize afternoon_list
 
-z = Random_night=random.choice(night_list)       # this will randomize night_list
+z = Random_night=random.choice(night_list)          # this will randomize night_list
 
 print(z)
