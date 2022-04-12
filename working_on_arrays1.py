@@ -8,7 +8,7 @@ night_list = ("pizza","steak","hotdogs","pork chops","spaghetti","pasta","hambur
 
 x = Random_moring=random.choice(morning_list)       # this will randomize morning_list
 
-y = Random_afternoon=random.choice(afternoon_list)    # this will randomize afternoon_list
+y = Random_afternoon=random.choice(afternoon_list)  # this will randomize afternoon_list
 
 z = Random_night=random.choice(night_list)          # this will randomize night_list
 
