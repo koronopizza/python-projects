@@ -6,7 +6,7 @@ afternoon_list = ("blt","salad","taco","stuffed peppers","grilled cheese","chick
 
 night_list = ("pizza","steak","hotdogs","pork chops","spaghetti","pasta","hamburgers")   #  # array 3
 
-x = Random_moring=random.choice(morning_list)    # this will randomize morning_list
+x = Random_moring=random.choice(morning_list)       # this will randomize morning_list
 
 y = Random_afternoon=random.choice(afternoon_list)    # this will randomize afternoon_list
 
