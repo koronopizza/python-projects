@@ -1,6 +1,6 @@
 x = 50   #if statement
 
-y = 10  #variable
+y = 10   #variable
 
 if x < y:  #if statement
     
