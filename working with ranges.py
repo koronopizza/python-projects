@@ -4,4 +4,4 @@ b = int(input())   # if this is 5
 
 num = list(range(a,b))  # this is a variable with a value of list. this is defining the range
 
-print(num)      # this is the sum of a and b     
+print(num)     # this is the sum of a and b     
