@@ -1,5 +1,5 @@
 age = int(input())
-    # these are the variables
+      # these are the variables
  
 name = input()
  # this tells if your old enough to enter
