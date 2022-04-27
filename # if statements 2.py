@@ -1,4 +1,4 @@
-x = 50   #if statement
+x = 50    #if statement
 
 y = 10   #variable
 
