@@ -1,5 +1,5 @@
 i = 0
-  # these are the variables    
+   # these are the variables    
 x = "tacocat"
   # this is the count of the variable "tacocat"
 y = len(x)-1   #6
