@@ -7,5 +7,5 @@ y = len(x)-1   #6
 while i < y + 1 : 
     if x[i] != x[y - i]:
         print('false!')
-        break   # stops the loop
+        break    # stops the loop
     i += 1       # increases the count or iteration
