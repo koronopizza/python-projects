@@ -8,4 +8,4 @@ while i < y + 1 :
     if x[i] != x[y - i]:
         print('false!')
         break   # stops the loop
-    i += 1      # increases the count or iteration
+    i += 1       # increases the count or iteration
