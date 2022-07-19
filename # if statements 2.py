@@ -4,7 +4,7 @@ y = 10   #variable
 
 if x < y:  #if statement
     
-    if x > 49:  # deeper if statement
+    if x > 49:   # deeper if statement
     
      print(y + x + 200)
 
