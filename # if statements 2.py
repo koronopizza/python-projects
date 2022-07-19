@@ -8,7 +8,7 @@ if x < y:  #if statement
     
      print(y + x + 200)
 
-elif y < x:   # else if 
+elif y < x:    # else if 
 
     print(y * x + 200)
 
