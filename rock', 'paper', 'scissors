@@ -10,7 +10,7 @@ def play_game():
     if user_choice in answers:
         # Choose a random answer for the computer
         computer_choice = random.choice(answers)
-        
+         # Print the computer's choice
         print(f'The computer chose {computer_choice}.')
         
         if user_choice == computer_choice:
