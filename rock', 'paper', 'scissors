@@ -20,7 +20,7 @@ def play_game():
         else:
             print('You lost.')
     else:
-        
+         # If the user's choice is not valid, ask them again
         print('Invalid choice. Please enter rock, paper, or scissors.')
         play_game()
 
