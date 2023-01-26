@@ -8,7 +8,7 @@ def play_game():
     user_choice = input('Rock, paper, or scissors? ').lower()
     # Check if the user's choice is valid
     if user_choice in answers:
-        
+        # Choose a random answer for the computer
         computer_choice = random.choice(answers)
         
         print(f'The computer chose {computer_choice}.')
