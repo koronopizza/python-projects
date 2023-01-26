@@ -12,7 +12,7 @@ def play_game():
         computer_choice = random.choice(answers)
          # Print the computer's choice
         print(f'The computer chose {computer_choice}.')
-        
+        # Determine the winner
         if user_choice == computer_choice:
             print('It\'s a tie!')
         elif (user_choice == 'rock' and computer_choice == 'scissors') or (user_choice == 'paper' and computer_choice == 'rock') or (user_choice == 'scissors' and computer_choice == 'paper'):
