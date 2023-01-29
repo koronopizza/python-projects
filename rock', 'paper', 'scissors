@@ -6,12 +6,16 @@ answers = ['rock', 'paper', 'scissors']
 def play_game():
    
     user_choice = input('Rock, paper, or scissors? ').lower()
+    
     # Check if the user's choice is valid
     if user_choice in answers:
+        
         # Choose a random answer for the computer
         computer_choice = random.choice(answers)
+         
          # Print the computer's choice
         print(f'The computer chose {computer_choice}.')
+        
         # Determine the winner
         if user_choice == computer_choice:
             print('It\'s a tie!')
@@ -20,7 +24,8 @@ def play_game():
         else:
             print('You lost.')
     else:
-         # If the user's choice is not valid, ask them again
+        
+        # If the user's choice is not valid, ask them again
         print('Invalid choice. Please enter rock, paper, or scissors.')
         play_game()
 
