@@ -3,7 +3,7 @@ import random
 answers = ['rock', 'paper', 'scissors']
 
 def play_game():
-     #     
+     #      
     user_choice = input('Rock, paper, or scissors? ').lower()
     
     # Check if the user's choice is valid
