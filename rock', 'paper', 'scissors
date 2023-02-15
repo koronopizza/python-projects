@@ -2,7 +2,7 @@ import random
 # Create a list of possible answers
 answers = ['rock', 'paper', 'scissors']
 
-def play_game(): 
+def play_game():  
      #                      
     user_choice = input('Rock, paper, or scissors? ').lower()
     
