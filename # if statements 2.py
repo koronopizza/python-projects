@@ -14,4 +14,4 @@ elif y < x:    # else if
 
 else:
 
-    print("notting")  # this is the print state m ent 
+    print("notting")  # this is the print state ment 
